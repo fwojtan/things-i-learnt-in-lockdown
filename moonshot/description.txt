@@ -1,0 +1,5 @@
+This 'moonshot' folder contains a bunch of C code that I was using to try and impliment RK4 for a 'spaceship' under the influence of two bodies.
+The main aim was to begin to learn C, but I wanted to choose something interesting. 
+
+I couldn't get the behaviour I wanted when I was testing it, so I've moved on to try and learn on something more straightforward. Maybe I'll come back to
+it once I know what I'm doing...
