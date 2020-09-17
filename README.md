@@ -5,6 +5,6 @@ Trying to learn C by implimenting RK4 for a restricted three body system (moonsh
 
 A better place to pickup some C is following a tutorial on how to make a console text editor (kilo). Later on I started doing some of the tutorials from learn-C.org e.g. linked lists.
 
-I also was using some python to cleanup and categorise my bank statements. Initially this was just to estimate living costs at uni, but it occured to me it might make a fun dataset for an ML project further down the line.
+I also was using some python to cleanup and categorise my bank statements (I was really bored by this point in lockdown). Initially this was just to estimate living costs at uni, but it occured to me the labelled data could be used for an ML project in the future...
 
-On a similar topic I wanted to start to learn pandas so tried to impliment a student loan repayment calculator I'd previously made in excel. I also faffed with Jupyter ipython widgets for a while.
+I also wanted to start to learn pandas so tried to impliment a student loan repayment calculator I'd previously made in excel. I also faffed with Jupyter ipython widgets for a while to make some interactive plots.
